@@ -1,4 +1,4 @@
-Babadan Labs is a fully remote company headquartered in the United States. We're the team behind:
+Babadan Labs is the team behind these:
 
 - 🎧 [Rephonic](https://rephonic.com)
 - 📧 [Reletter](https://reletter.com)

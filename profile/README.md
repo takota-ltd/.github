@@ -1,4 +1,4 @@
-Babadan Labs is the team behind these:
+Babadan Labs is the team behind:
 
 - 🎧 [Rephonic](https://rephonic.com)
 - 📧 [Reletter](https://reletter.com)
